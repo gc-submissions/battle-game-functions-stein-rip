@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Grade",
+      "setup": "npm ci",
+      "run": "npm run grade",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
